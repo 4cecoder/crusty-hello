@@ -1,4 +1,5 @@
 # crusty-hello
+[![Build](https://github.com/4cecoder/crusty-hello/actions/workflows/rust.yml/badge.svg?event=status)](https://github.com/4cecoder/crusty-hello/actions/workflows/rust.yml)
 Ayo so Rust or bust?
 
 ## Build then Run
