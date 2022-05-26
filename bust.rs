@@ -1,3 +1,3 @@
 fn main(){
-println("Busted");
+println!("Busted");
 }
