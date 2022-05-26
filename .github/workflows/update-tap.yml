@@ -13,6 +13,6 @@ jobs:
         if: '!contains(github.ref, ''-'')'
         with:
           formula-name: '${{ steps.get_repository_name.outputs.REPOSITORY_NAME }}'
-          homebrew-tap: PurpleBooth/homebrew-repo
+          homebrew-tap: 4cecoder/homebrew-repo
         env:
           COMMITTER_TOKEN: '${{ secrets.COMMITTER_TOKEN }}'
