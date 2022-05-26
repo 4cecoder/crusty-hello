@@ -5,7 +5,7 @@ Ayo so Rust or bust?
 
 `make build`
 
-`./crusty-hello`
+`target/release/./crusty-hello || target/debug/./crusty-hello`
 
 ## Installation
 `make build install`
